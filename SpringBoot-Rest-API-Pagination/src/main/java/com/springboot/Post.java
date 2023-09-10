@@ -1,6 +1,6 @@
 package com.springboot;
 
-import lombok.*; 
+import lombok.*;  
 
 import jakarta.persistence.*;
 import java.util.HashSet;
